@@ -10,3 +10,4 @@ cd test-case-app
  npm start
 This command will start the development server and the app will be accessible in a web browser. Access the app: You can access the app by opening a web browser and navigating to the provided URL, typically http://localhost:3000.
  Add your username,password,hostname,database name to access the postgres server and database.
+Access src>>>components for frontend part
